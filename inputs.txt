@@ -1,0 +1,7 @@
+Mid Risk: Age = 33/23 Systolic BP = 130 Diastolic BP = 70 Blood Glucose = 7.01 mmol/L Temperature = 36.6 °C Heart Rate = 78 bpm
+
+High Risk: Age = 32 Systolic BP = 135 Diastolic BP = 90 Blood Glucose = 7.5 mmol/L Temperature = 37.5 °C Heart Rate = 85 bpm
+
+Suspect: [120, 0, 0, 0, 0, 0, 0,73, 0.5, 43, 2.4, 64, 62, 126, 2, 0, 120, 137, 121, 73, 1] 
+
+Pathological: [134, 0.001, 0, 0.01, 0.009, 0, 0.002, 26, 5.9, 0, 0, 150, 50, 200, 5, 3, 76, 107, 107, 170, 0]
